@@ -1,0 +1,47 @@
+[
+    {
+        "nombre": "Yoga una vez por semana",
+        "precio": "$1500",
+        "id": "1"
+    },
+    {
+        "nombre": "Meditacion una vez por semana",
+        "precio": "$1000",
+        "id": "2"
+    },
+    {
+        "nombre": "Functional una vez por semana",
+        "precio": "$1300",
+        "id": "3"
+    },
+    {
+        "nombre": "Combo completo una vez por semana",
+        "precio": "$3100",
+        "id": "4"
+    },
+    {
+        "nombre": "Yoga 3 veces por semana",
+        "precio": "3200",
+        "id": "5"
+    },
+    {
+        "nombre": "Meditacion 3 veces por semana",
+        "precio": "2500",
+        "id": "6"
+    },
+    {
+        "nombre": "Functional 3 veces por semana",
+        "precio": "$3400",
+        "id": "7"
+    },
+    {
+        "nombre": "PROMO - 6 clases a eleccion",
+        "precio": "$6000",
+        "id": ""
+    },
+    {
+        "nombre": "PROMO - 10 clases a eleccion",
+        "precio": "$8500",
+        "id": "9"
+    }
+]
